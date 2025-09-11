@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Repurposing an Enterprise Workstation as Your Home Lab</b>
+- <b>Repurposing an Enterprise Workstation as a Home Lab</b>
   - _____
 - <b>_____</b>
   - _____
