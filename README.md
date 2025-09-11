@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Nathan! </h1>
 
-<!--
-**nathanonufriychuk/nathanonufriychuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 IT Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Repurposing an Enterprise Workstation as Your Home Lab</b>
+  - _____
+- <b>_____</b>
+  - _____
+- <b>_____</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 Videos</h2>
+
+- _____
+
+<h2> 🤳 Connect with me:</h2>
