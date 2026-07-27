@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Networking and Cybersecurity Projects:</h2>
 
-- <b>KQL Packet Tracer Home Lab</b>
+- <b>Packet Tracer Home Lab</b>
   - _____
 - <b>KQL Threat Hunting</b>
   - _____
