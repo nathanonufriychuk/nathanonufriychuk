@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Repurposing an Enterprise Workstation as a Home Lab</b>
+- <b>KQL Threat Hunting</b>
   - _____
 - <b>_____</b>
   - _____
