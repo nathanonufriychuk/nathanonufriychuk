@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nathan! </h1>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>KQL Threat Hunting</b>
   - _____
