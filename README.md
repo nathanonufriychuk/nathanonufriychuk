@@ -4,8 +4,8 @@ using tools like Microsoft Sentinel, Azure, and Tenable. Please feel free to che
 
 <h2>👨‍💻 Vulnerability Management Projects:</h2>
 
-- <b>Vulnerability Management Program Implementation</b>
-**[Vulnerability Management Program Implementation](https://github.com/nathanonufriychuk/vulnerability-management-program)**
+- <b>[Vulnerability Management Program Implementation](https://github.com/nathanonufriychuk/vulnerability-management-program)</b>
+
 - <b>Programmatic Vulnerability Remediations (Powershell and BASH)</b>
   - _____
 - <b>_____</b>
