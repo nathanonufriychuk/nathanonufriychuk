@@ -2,11 +2,11 @@
 <p>I'm passionate about cybersecurity and love learning hands-on. These are some of the projects I've worked on 
 using tools like Microsoft Sentinel, Azure, and Tenable. Please feel free to check out my pinned repositories below to see them in action.</p>
 
-<h2>👨‍💻 Networking and Cybersecurity Projects:</h2>
+<h2>👨‍💻 Vulnerability Management Projects:</h2>
 
-- <b>Packet Tracer Home Lab</b>
+- <b>Vulnerability Management Program Implementation</b>
   - _____
-- <b>KQL Threat Hunting</b>
+- <b>Programmatic Vulnerability Remediations (Powershell and BASH)</b>
   - _____
 - <b>_____</b>
   - _____
