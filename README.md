@@ -7,12 +7,9 @@ using tools like Microsoft Sentinel, Azure, and Tenable. Please feel free to che
 - <b>[Vulnerability Management Program Implementation](https://github.com/nathanonufriychuk/vulnerability-management-program)</b>
 
 - <b>Programmatic Vulnerability Remediations (Powershell and BASH)</b>
-  - _____
-- <b>_____</b>
-  - _____
-- <b>_____</b>
 
-<h2>📺 Videos</h2>
+
+<h2>🚨 Threat Detection and Hunting</h2>
 
 - _____
 
